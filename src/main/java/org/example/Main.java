@@ -6,7 +6,7 @@ public class Main {
         mainMethodShowInfo();
     }
     private static void mainMethodShowMessageAble() {
-        System.out.println("Hello Almaty\n");
+        System.out.println("Hello all\n");
     }
     private static void mainMethodShowInfo() {
         System.out.println("Chto-to pomenyala");
